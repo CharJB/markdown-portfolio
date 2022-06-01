@@ -1,0 +1,3 @@
+- *Pianist*
+- **Likes crystals**
+- Is learning IT
