@@ -1,3 +1,3 @@
-- Piano
-- Chocolate
-- TV
+- *Piano*
+- **Chocolate**
+- *TV*
