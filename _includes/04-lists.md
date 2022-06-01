@@ -1,3 +1,3 @@
-Pianos
-Chocolate
-TV
+- Piano
+- Chocolate
+- TV
